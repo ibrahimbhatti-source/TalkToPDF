@@ -1,0 +1,1 @@
+It's UI is built using Streamlit and unfortunately streamlit apps cannot be hosted natively on Vercel. well this is a simple RAG based application built for practicing RAG. it can be further improved by adding the chat history so that user can do multiple conversations at a single session. 
