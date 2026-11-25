@@ -37,5 +37,5 @@ Runnables:
 The user pdf is automatically deleted when the response is generated.
 
 Workflow:
-Query only --> General Response
+Query only --> General Response | 
 Query + PDF --> Response from User PDF
